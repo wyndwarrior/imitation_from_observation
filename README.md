@@ -1,5 +1,6 @@
 
 # Imitation from Observation
+Learning to Imitate Behaviors from Raw Video via Context Translation
 
 [[Paper]](https://arxiv.org/pdf/1707.03374) 
 [[Videos]](https://sites.google.com/site/imitationfromobservation/)
@@ -9,10 +10,10 @@
 - [Pushing](https://github.com/wyndwarrior/imitation_from_observation/blob/master/gym/envs/mujoco/pusher3dof.py)
 - [Sweeping](https://github.com/wyndwarrior/imitation_from_observation/blob/master/gym/envs/mujoco/cleaner_env.py)
 - [Striking](https://github.com/wyndwarrior/imitation_from_observation/blob/master/gym/envs/mujoco/striker.py)
+### Experiments:
+- [Launchers](https://github.com/wyndwarrior/imitation_from_observation/tree/master/sandbox/andrew): experiments using our method, baselines, and model trainers
+- [Notebooks](https://github.com/wyndwarrior/imitation_from_observation/tree/master/notebooks): Various notebooks for model training, debugging, generating plots, etc.
 
-
-
-Learning to Imitate Behaviors from Raw Video via Context Translation
 
 [![Docs](https://readthedocs.org/projects/rllab/badge)](http://rllab.readthedocs.org/en/latest/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/rllab/rllab/blob/master/LICENSE)
